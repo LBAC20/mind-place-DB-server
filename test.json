@@ -1,0 +1,9 @@
+{
+  "name": "Test User",
+  "age": 25,
+  "email": "test@example.com",
+  "preferences": {
+    "theme": "dark",
+    "notifications": true
+  }
+}
